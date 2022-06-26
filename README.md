@@ -1,1 +1,4 @@
 # SMU_HomeWork
+//SMU HOMEWORK Files
+//TEST files
+//NOT FINISHED PROJECT FILEs
